@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../src/Card/Card.tsx"],"sourcesContent":["\nimport * as React from 'react';\n\n\n const Card = () => {\n    return(<div>card</div>);\n}\n\nexport default Card;"],"names":["Card","React","createElement"],"mappings":"wBAIO,MAAAA,EAAO,IACHC,EAAeC,cAAA,MAAA,KAAA"}

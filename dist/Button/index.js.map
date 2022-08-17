@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../src/Button/Button.tsx"],"sourcesContent":["\nimport * as React from 'react';\n\n\nconst Button  = () =>{\n    return(\n        <div>Button</div>\n    )\n}\n\nexport default Button;"],"names":["Button","React","createElement"],"mappings":"wBAIM,MAAAA,EAAU,IAERC,EAAiBC,cAAA,MAAA,KAAA"}
