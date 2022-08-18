@@ -12,6 +12,7 @@
       "url": "https://github.com/PriyadarshiniPuja"
     }
   ],
+  "repository": "https://github.com/PriyadarshiniPuja/libraryIntergation.git",
   "version": "1.0.0",
   "license": "ISC",
   "main": "./cjs/index.js",
